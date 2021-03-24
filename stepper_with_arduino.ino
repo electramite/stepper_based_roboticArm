@@ -15,7 +15,7 @@ void setup() {
   myStepper.setAcceleration(50);
   myStepper.setSpeed(200);
   myStepper.moveTo(2038);
-  Serial.begin(9600);
+  Serial.begin(115200);
   
 }
 
