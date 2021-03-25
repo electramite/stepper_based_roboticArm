@@ -3,6 +3,7 @@
 
 // Define step constant
 #define FULLSTEP 4 // halfstep == 8
+#define HALFSTEP 8
 
 // Creates an instance
 // Pins entered in sequence IN1-IN3-IN2-IN4 for proper step sequence
